@@ -6,7 +6,7 @@ heroku3
 motor
 Pillow>=5.3.0
 pymongo
-pymongo[srv]
+pymongo
 requests
 telegraph
 tgcrypto
